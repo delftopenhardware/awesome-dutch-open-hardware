@@ -37,6 +37,9 @@
 * [Tinycan](Https://Knack.Supply/Product/Tinycan/) - A Power + Can Driver Board
 * [Tutlepad](Https://Github.Com/0xcb-Dev/0xcb-Tutelpad) - A Pro Micro-Based Macropad With An Oled Screen In The Middle.
 * [WiggleBin](https://github.com/studiorabota/wiggle-bin) -  smart vermicomposting bin which makes both worms and humans happy.
+* [T-cup](https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.202100078) - A Cheap, Rapid, and Simple Home Device for Isothermal Nucleic Acid Amplification
+* [HistoEnder](https://github.com/Vsaggiomo/HistoEnder) -  a 3D printer-based histological slide autostainer 
+* [PlayaPrinter](https://github.com/Dragonstei/PlayaPrinter) - a large scale 3D sand printer to create sculptures
 
 ## Papers
 
