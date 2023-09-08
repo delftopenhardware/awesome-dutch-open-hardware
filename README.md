@@ -26,6 +26,7 @@
 * [Itho Wifi](Https://Github.Com/Arjenhiemstra/Ithowifi) - Simple Add-On For Itho Central Ventilation Units To Make The Unit Wifi Enabled
 * [Jupiter](Https://Github.Com/0xcb-Dev/0xcb-Jupiter) - An 1800-Sized Through-Hole Keyboard With Various Layout Options
 * [Matchboxscope](https://github.com/Vsaggiomo/Matchboxscope) - ESP32-based mini microscope for fluidic device observation
+* [Microfluids](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201500125) - Simple 3D Printed Scaffold-Removal Method for the Fabrication of Intricate Microfluidic Devices
 * [MirteRobot](https://mirte.org/docs/) - an Inspring Robot for Technology Education
 * [Openhumidistat](Https://Github.Com/Openhumidistat/Firmware) -  Humidistat For Laboratory-Scale Humidity Control 
 * [OpenMEDJED](https://github.com/openMLA/Medjed) - The Medjed maskless lithography aligner is part of the openMLA series of photolithography equipment.
