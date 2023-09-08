@@ -15,6 +15,7 @@
 
 * [Ad2 Curve Tracer](Https://Knack.Supply/Product/Ad2ct/) - Curve Tracer.
 * [Anti-theft system for a bike](https://github.com/nanaminh/anti-theft) - Anti-theft system for your beloved bike.
+* [Beepnl](https://github.com/beepnl/measurement-system-v3) - digital tools for beekeepers
 * [Biosphere Solar](https://www.biosphere.solar/) - circulair solar panels
 * [Dark-Field Light Scattering Microscope With Focus Stabilization](Https://Osf.Io/T3yvd/?View_Only=F428f995d7404f6e814d137d25b5c95f) - A Single-Objective Inverted Microscope.
 * [Ender 3 syringe pump](https://github.com/Vsaggiomo/Ender3-syringe-pumps) - open-source set of syringe pumps from an Ender 3 kit
@@ -31,6 +32,7 @@
 * [Openhumidistat](Https://Github.Com/Openhumidistat/Firmware) -  Humidistat For Laboratory-Scale Humidity Control 
 * [OpenMEDJED](https://github.com/openMLA/Medjed) - The Medjed maskless lithography aligner is part of the openMLA series of photolithography equipment.
 * [OperationAIR](https://osf.io/mn7xq/) - easy producible emergency ventilator
+* [OSI² ONE](https://gitlab.com/osii) - The first open-source MRI scanner
 * [Picotracker](Https://Github.Com/Justsem/Rp2040-868) - A Rp2040 Based Gsm/Gnss/Bt(Le) Board On Credit-Card Format.
 * [Plastic injection molding machine](https://community.preciousplastic.com/how-to/joost-arbor-press) - Arbor style press for injection molding.
 * [Plastic Scanner](https://plasticscanner.com/) - A device that can identify the most common types of plastic to make plastic recycling simpler.
@@ -39,6 +41,8 @@
 * [Project Inspiration](https://github.com/CombatCovid/TU-Delft-PI-Emergency-Ventilator) - A low-cost, easy to manufacture and easy operatable mechanical ventilator.
 * [Scd41 Wifi-Bluetooth Sensor](Https://Github.Com/Tanmoydutta/Carbondioxideiotsensor) - An Iot Sensor Based On Esp32 With A Carbon Di Oxide Sensor
 * [Scrumpel 7d Z8s180 Cp/M Sbc](Https://Hackaday.Io/Project/171469-Scrumpel-7d-Z8s180-Sbc) - A Complete Computer Build Around The Z8s180
+* [SimpleScienceSetup](https://github.com/mik-schutte/SimpleScienceSetup) - a starter kit for composing experimental setups.
+* [Sodaq one](https://support.sodaq.com/Boards/One/) - Air quality monitoring on a bike
 * [SPCL Midge badge](https://github.com/TUDelft-SPC-Lab/spcl_midge_hardware) - MIDGE wearable devices for in-the-wild social data collection.
 * [SpotiStation](https://github.com/NemoAndrea/SpotiStation) - Minimalist (Spotify) music player intended to enable people with cognitive or physical disabilities.
 * [T-cup](https://onlinelibrary.wiley.com/doi/full/10.1002/gch2.202100078) - A Cheap, Rapid, and Simple Home Device for Isothermal Nucleic Acid Amplification
@@ -46,7 +50,7 @@
 * [Tinycan](Https://Knack.Supply/Product/Tinycan/) - A Power + Can Driver Board
 * [Tutlepad](Https://Github.Com/0xcb-Dev/0xcb-Tutelpad) - A Pro Micro-Based Macropad With An Oled Screen In The Middle.
 * [WiggleBin](https://github.com/studiorabota/wiggle-bin) -  smart vermicomposting bin which makes both worms and humans happy.
-
+  
 ## Papers
 
 * [Creating an Open-source Hardware Ecosystem for Research and Sustainable Development](https://doi.org/10.5281/zenodo.8301859) - Paper by Sanli Faez, Jose Urra, Vittorio Saggiomo, Jerry de Vos, Santosh Illamparuthi.
