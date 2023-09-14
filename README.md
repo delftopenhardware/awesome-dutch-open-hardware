@@ -23,6 +23,7 @@
 * [FAIR-Battery](https://github.com/SanliFaez/FAIR-Battery) - building an open-hardware redox-flow battery
 * [Fume Sensor](Https://Wikifactory.Com/+Delftopenhardware/Fume-Sensor) -  A Handheld Sensor Based On The Wemos D1 Mini, The Ccs811 And An Oled Screen. Written In Micropython!
 * [Headplate And Light-Blocking Sleeve](Https://Zenodo.Org/Record/7767100) - A Headplate And Light-Blocking Sleeve For Head-Fixed Mice.
+* [Hexastorm](https://hexastorm.com/) - toolchain for laser direct imaging   
 * [HistoEnder](https://github.com/Vsaggiomo/HistoEnder) -  a 3D printer-based histological slide autostainer 
 * [Itho Wifi](Https://Github.Com/Arjenhiemstra/Ithowifi) - Simple Add-On For Itho Central Ventilation Units To Make The Unit Wifi Enabled
 * [Jupiter](Https://Github.Com/0xcb-Dev/0xcb-Jupiter) - An 1800-Sized Through-Hole Keyboard With Various Layout Options
@@ -50,7 +51,7 @@
 * [Tinycan](Https://Knack.Supply/Product/Tinycan/) - A Power + Can Driver Board
 * [Tutlepad](Https://Github.Com/0xcb-Dev/0xcb-Tutelpad) - A Pro Micro-Based Macropad With An Oled Screen In The Middle.
 * [WiggleBin](https://github.com/studiorabota/wiggle-bin) -  smart vermicomposting bin which makes both worms and humans happy.
-  
+
 ## Papers
 
 * [Creating an Open-source Hardware Ecosystem for Research and Sustainable Development](https://doi.org/10.5281/zenodo.8301859) - Paper by Sanli Faez, Jose Urra, Vittorio Saggiomo, Jerry de Vos, Santosh Illamparuthi.
